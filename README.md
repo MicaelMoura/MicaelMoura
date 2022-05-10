@@ -11,5 +11,5 @@
        
        "Sim, estou gostando muito de JavaScript"
 
-- 📫 Para me encontrar, basta mandar um e-mail para mim:
+>> 📫 Para me encontrar, basta mandar um e-mail para mim:
       mikaelmoura@yahoo.com.br
