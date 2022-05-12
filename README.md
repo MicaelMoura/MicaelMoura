@@ -1,15 +1,25 @@
->> 👋 Olá, Eu sou o @MicaelMoura!
-      Técnico em informática com experiência em programação desktop (principalmente VB6 com SQL Server, mas um pouco de C# também).
-      Porém, de uns tempos para cá, estou migrando para o desenvolvimento WEB.
+* 👋 Olá, eu sou o @MicaelMoura!
+      Sou Técnico em informática com experiência em programação desktop migrando para o desenvolvimento WEB.
 
->> 👀 Eu estou interessado em me aperfeiçoar no vasto mundo da programação buscando sempre as tecnilogias de ponta, para estar alinhado com o mercado.
+* Como já sou programador há algum tempo, já trabalhei com:
+    * HTML 5
+    * CSS 3
+    * PHP
+    * Asp
+    * MySQL
+    * SQL Server
+    * SQLite
+    * VB6
+    * C#
 
->> 🌱 Crescer é sempre bom e, atualmente, estou me desenvolvendo em:
-       > JavaScript
-       > ReactJS
-       > NodeJs
-       
-       "Sim, estou gostando muito de JavaScript"
+* 🌱 Crescer é sempre bom, por isso tenho buscado me aperfeiçoar em:
+    * JavaScript (Vanilla)
+    * ReactJS
+    * NodeJs
+    <br>
+     
+      Sim, admiro muito o JavaScript!
 
->> 📫 Para me encontrar, basta mandar um e-mail para mim:
-      mikaelmoura@yahoo.com.br
+* 📫 Para me encontrar:
+     >*[mikaelmoura@yahoo.com.br](mikaelmoura@yahoo.com.br)* <br>
+     >*[Linkedin](https://www.linkedin.com/in/micael-moura-639989144/)*
