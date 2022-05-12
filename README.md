@@ -1,4 +1,10 @@
-* 👋 Olá, eu sou o @MicaelMoura!
+## Oi, eu sou o Micael Moura!
+<div align="center">
+  <a href="https://github.com/micaelmoura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micaelmoura&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelmoura&layout=compact&langs_count=7&theme=vue-dark"/>
+</div>
+
       Sou Técnico em informática com experiência em programação desktop migrando para o desenvolvimento WEB.
 
 * Como já sou programador há algum tempo, já trabalhei com:
